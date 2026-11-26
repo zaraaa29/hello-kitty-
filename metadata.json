@@ -1,0 +1,6 @@
+{
+  "name": "Hello Kitty Club",
+  "description": "A dreamy coquette and Y2K-inspired lifestyle boutique for plushies, mini bags, stationery, loungewear, and keepsake gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
